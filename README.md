@@ -3,6 +3,12 @@
 
 Welcome to the Blog App! This project is a simple blogging platform built using the Appwrite backend. It allows users to create, read, update, and delete blog posts.
 
+# UI DEMO
+
+![image](./image.png "Title")
+
+![image](./image2.png "Title")
+
 ## Table of Contents
 
 - [Features](#features)
