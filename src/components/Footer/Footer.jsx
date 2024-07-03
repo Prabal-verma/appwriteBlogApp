@@ -9,7 +9,7 @@ function Footer() {
         <div className="flex flex-wrap -mx-4">
           <div className="w-full md:w-1/2 lg:w-3/12 px-4 mb-8 md:mb-0">
             <div className="flex items-center mb-4">
-              <span className="ml-2 text-gray-800 font-semibold text-xl">My App</span>
+              <span className="ml-2 text-gray-800 font-semibold text-xl">Poxy Blog</span>
             </div>
             <p className="text-sm text-gray-600">
               &copy; 2024. All Rights Reserved.
