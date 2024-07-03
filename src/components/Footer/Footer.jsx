@@ -12,7 +12,7 @@ function Footer() {
               <span className="ml-2 text-gray-800 font-semibold text-xl">Poxy Blog</span>
             </div>
             <p className="text-sm text-gray-600">
-              &copy; 2024. All Rights Reserved.
+              &copy; 2024. All Rights Reserved
             </p>
           </div>
           <div className="w-full md:w-1/2 lg:w-2/12 px-4 mb-8 md:mb-0">
