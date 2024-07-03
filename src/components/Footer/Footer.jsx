@@ -16,16 +16,16 @@ function Footer() {
             </p>
           </div>
           <div className="w-full md:w-1/2 lg:w-2/12 px-4 mb-8 md:mb-0">
-            <h3 className="text-xs font-semibold uppercase text-gray-800 mb-4">Explore</h3>
+            <h3 className="text-xs font-semibold uppercase text-gray-800 mb-4">Explore More Projects</h3>
             <ul>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
-                  Features
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://truefeedback.prabalverma.me/">
+                  truefeedback
                 </Link>
               </li>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
-                  Pricing
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://github.com/Prabal-verma">
+                  Ai interview Mocker
                 </Link>
               </li>
               <li className="mb-2">
@@ -34,17 +34,17 @@ function Footer() {
                 </Link>
               </li>
               <li>
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
-                  Support
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://github.com/Prabal-verma">
+                  Projects
                 </Link>
               </li>
             </ul>
           </div>
           <div className="w-full md:w-1/2 lg:w-2/12 px-4 mb-8 md:mb-0">
-            <h3 className="text-xs font-semibold uppercase text-gray-800 mb-4">Company</h3>
+            <h3 className="text-xs font-semibold uppercase text-gray-800 mb-4">About</h3>
             <ul>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://portfolio.prabalverma.me/">
                   About Us
                 </Link>
               </li>
@@ -54,7 +54,7 @@ function Footer() {
                 </Link>
               </li>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="mailto: dev@prabalverma.me">
                   Contact Us
                 </Link>
               </li>
@@ -69,22 +69,22 @@ function Footer() {
             <h3 className="text-xs font-semibold uppercase text-gray-800 mb-4">Connect</h3>
             <ul>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
-                  Facebook
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://github.com/Prabal-verma">
+                  GitHub
                 </Link>
               </li>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://x.com/poxyPixels">
                   Twitter
                 </Link>
               </li>
               <li className="mb-2">
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://www.instagram.com/poxy_pixels/">
                   Instagram
                 </Link>
               </li>
               <li>
-                <Link className="text-sm text-gray-800 hover:text-gray-900" to="/">
+                <Link className="text-sm text-gray-800 hover:text-gray-900" to="https://www.linkedin.com/in/prabal-verma/">
                   LinkedIn
                 </Link>
               </li>
